@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://theabacase.com/saves-client/:path*"
+      "destination": "http://185.151.30.219/saves-client/:path*"
     }
   ]
 }
