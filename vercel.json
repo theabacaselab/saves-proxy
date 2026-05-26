@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://saves-theabacase-com.stackstaging.com/:path*"
+      "destination": "https://theabacase.com/saves-client/:path*"
     }
   ]
 }
