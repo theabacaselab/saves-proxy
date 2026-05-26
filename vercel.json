@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://saves.theabacase.com/:path*"
+      "destination": "http://saves-backend.theabacase.com/:path*"
     }
   ]
 }
